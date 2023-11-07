@@ -1,0 +1,28 @@
+﻿Which of the following is not considered as a peripheral device? { = CPU  ~ Keyboard  ~ Monitor  ~ All of the above }
+
+Which of the following operations is/are performed by the ALU? _________  { ~ Data manipulation  ~ Exponential  ~ Square root  = All of the above }
+
+The collection of 8-bits is called as { ~ Nibble  = Byte   ~ Word   ~ Record  }
+
+In which of the following form the computer stores its data in memory? {  = Binary form   ~ Hexadecimal form   ~ Octal form  ~ Decimal form  }
+
+Where is the document temporarily stored during working on a document on PC? { ~ ROM   ~ CPU  ~ Flash memory  = RAM }
+
+An instruction cycle consists of? { ~ fetching and decoding  ~ decoding and executing  = fetching, decoding, executing and storing  ~ fetching, executing and storing }
+
+Which of the following computer register collects the result of computation? { ~ Instruction Pointer  = Accumulator  ~ Storage register  ~ None of the above  }
+
+CISC stands for {  ~ Complete Instruction Sequential Compilation ~ Complex Instruction Sequential Compiler  = Complex Instruction Set Computer  ~ None of the above }
+
+In ________ the operand is specified in the instruction itself {  ~ Based Indexed  ~ Register mode  = Immediate Addressing mode  ~ Register indirect }
+
+Floating point representation is used to store. { ~ Boolean values  ~ Whole numbers  ~ Integers  = Real integers  }
+	
+RTL stands for { ~ Random transfer language   = Register transfer language   ~ Arithmetic transfer language  ~ All of these }
+
+The register that includes the address of the memory unit is termed as the { = MAR  ~ PC  ~ IR  ~ None of the above   }
+
+The circuit used to store one bit of data is known as { ~ Encoder  ~ OR gate  ~ Decoder  = Flip-Flop  }
+
+The instruction that is used to transfer the data from source operand to destination operand is {  = Transfer instruction  ~ Branch Instruction  ~ Arthimetic instruction  ~ String Instruction }
+
